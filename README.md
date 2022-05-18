@@ -7,7 +7,7 @@ go mod tidy
 go run main.go
 ```
 
-mysql
-user:root
-password:root
-database_name:app
+- mysql
+  - user:root
+  - password:root
+  - database_name:app
